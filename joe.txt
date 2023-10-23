@@ -1,0 +1,5 @@
+20010209,Birthday,HIGH
+20181114,Ace CISC 230 exam,HIGH
+20181119,Lab 5 final submission,HIGH
+20181112,Lab 5 progress submission,MEDIUM
+20190204,Spring classes begin,LOW
